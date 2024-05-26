@@ -1,6 +1,5 @@
 import { Content } from "@prismicio/client";
 import {PrismicRichText, PrismicText, SliceComponentProps} from "@prismicio/react";
-import PlainLogo from "./PlainLogo";
 import Bounded from "@/components/Bounded";
 import ButtonLink from "@/components/ButtonLink";
 import {PrismicNextImage} from "@prismicio/next";
